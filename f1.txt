@@ -3,3 +3,4 @@ develop 2
 feature-some 3
 feature-some2 4
 release-1.0 5
+hotfix-some 6
